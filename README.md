@@ -2,6 +2,8 @@
 
 Basic typescript example of queries made using algolia
 
+https://www.algolia.com/doc/api-client/javascript/getting-started/
+
 ```ts
 
 ;(async () => {
